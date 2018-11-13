@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Sprites - take 2
+//  ios Sprite Utility Project2
 //
 //  Created by Audrey Seversen on 11/13/18.
 //  Copyright © 2018 Audrey Welch. All rights reserved.
